@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TP2Ejercicio5</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="circulo">Circulo</string>
+    <string name="calcular">Calcular</string>
+    <string name="altura_del_triangulo">Altura del Triangulo</string>
+    <string name="base_del_triangulo">Base del Triangulo</string>
+    <string name="lado_del_triangulo">Lado del Triangulo</string>
+    <string name="diametro_del_circulo">Diametro del Circulo</string>
+    <string name="base">Base</string>
+    <string name="altura">Altura</string>
+    <string name="lado_a">Lado A</string>
+    <string name="lado_b">Lado B</string>
+    <string name="diametro">Diametro</string>
+</resources>
