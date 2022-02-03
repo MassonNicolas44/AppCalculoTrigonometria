@@ -1,4 +1,4 @@
-package com.example.tp2ejercicio5;
+package com.example.AppCalculoTrigonometria;
 
 import androidx.appcompat.app.AppCompatActivity;
 

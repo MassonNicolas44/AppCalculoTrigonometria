@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TP2Ejercicio5</string>
+    <string name="app_name">AppCalculoTrigonometria</string>
     <string name="triangulo">Triangulo</string>
     <string name="rectangulo">Rectangulo</string>
     <string name="circulo">Circulo</string>

@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.tp2ejercicio5"
+        applicationId 'com.example.AppCalculoTrigonometria'
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
